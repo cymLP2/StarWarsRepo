@@ -3,3 +3,5 @@ Dantooine
 Naboo
 Endor
 JAKKU
+Geonosis
+Hoth
